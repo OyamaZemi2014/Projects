@@ -27,7 +27,7 @@ Final projects by the members
   「[ゼミ論](https://github.com/keiikegami/theano)」  
 
 * 加藤 真大
-  ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/ゼミ論.pdf)”  
+  ”[2015年度の進捗の報告と2016年度の計画](https://github.com/NlGG/study/blob/master/%E3%82%BB%E3%82%99%E3%83%9F%E8%AB%96.pdf)”  
   ある集団、たとえば隣人関係や学校のクラス、に所属する経済主体が教育への投資を行う際に、そのコミュニティから受ける影響を分析する。
 
 * 飯田 大貴
