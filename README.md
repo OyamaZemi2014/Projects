@@ -20,6 +20,7 @@ Final projects by the members
 
 * 中田 竜明
   「[Ashlagi et al.(2015)の結果の再現](http://nbviewer.jupyter.org/github/nswa17/gasshuku-zemiron/blob/master/Zemiron.ipynb)」
+
   不均衡なマッチング市場においてコアが小さくなるという結果を再現する。
 
 ## 2015年度
