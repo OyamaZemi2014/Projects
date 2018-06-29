@@ -22,6 +22,11 @@
 * 津島 亮太
   「[Multi-Agent Simulation を用いた労働市場のモデリング](https://github.com/R-Tsushima/sotsuron/blob/master/Papers.pdf)」  
   シェリングの分居モデルにおけるエージェントのルールを参考に、労働市場における労働者と雇用主のマッチング状況についてシミュレーションした。
+  
+* 松下 旦
+  「[Strategy-Proofness 制約下での最大マッチング](https://github.com/myuuuuun/faculty_matching/blob/master/paper/paper.pdf)」  
+  学校選択問題において、「学生側のStrategy-Proofnessを満たすメカニズムの中で、マッチングのサイズができるだけ大きくなる」メカニズムを考察した。その結果、学生があらゆる選好順序を取りうる環境においては (i) 他のstrategy-proofメカニズムよりも常に大きなマッチングを達成するようなstrategy-proofメカ
+ニズムが存在しないこと、(ii) 現実の学校選択において最もよく使われているメカニズムであるDeferred Acceptance (DA)アルゴリズムは、 それ以上のサイズのマッチングを常に達成するメカニズムが存在しないという意味で最も望ましいメカニズムの1つであること、が明らかになった。
 
 ### ゼミ論
 
